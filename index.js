@@ -16,4 +16,8 @@ function logWhisper(string) {
 }
 logWhisper
 
-function 
+function sayHiGrandma(string) {
+  if (str.toLowerCase === str)
+  return "YES INDEED!"
+}
+else if 
