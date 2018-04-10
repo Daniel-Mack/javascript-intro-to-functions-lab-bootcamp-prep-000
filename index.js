@@ -17,10 +17,10 @@ function logWhisper(string) {
 logWhisper
 
 function sayHiToGrandma(string) {
-  if 
-  
-  
-  
+  if (string).toLowerCase()
+  console.log('string')
+  elsif (string).toUpperCase()
+  console.log('string')
   else 
   console.log(string)
 }
