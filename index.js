@@ -17,10 +17,5 @@ function logWhisper(string) {
 logWhisper
 
 function sayHiToGrandma(string) {
-  if (string).
-  console.log(')
-  else if (string)
-  console.log('string')
-  else 
-  console.log(string)
+  case string
 }
