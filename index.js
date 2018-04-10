@@ -7,5 +7,5 @@ return string.toLowerCase()
   }
   
 function logShout(string) {
-  console.log("hello" == uppercase).
+  console.log(`hello`)
 }
