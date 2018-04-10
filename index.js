@@ -18,4 +18,9 @@ logWhisper
 
 function sayHiToGrandma(string) {
   if 
+  
+  
+  
+  else 
+  console.log(string)
 }
