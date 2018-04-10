@@ -9,4 +9,4 @@ return string.toLowerCase()
 function logShout(string) {
   console.log("HELLO")
 }
-logShout()
+logShout
