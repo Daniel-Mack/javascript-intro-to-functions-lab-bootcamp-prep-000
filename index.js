@@ -19,7 +19,7 @@ logWhisper
 function sayHiToGrandma(string) {
   if (string).toLowerCase()
   console.log('string')
-  elsif (string).toUpperCase()
+  elseif (string).toUpperCase()
   console.log('string')
   else 
   console.log(string)
